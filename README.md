@@ -1,16 +1,13 @@
-# about_blank
-空白期間についての活動
+# 2024/07 ~ 現在 空白期間について
 
+前職退職後から現在までの空白期間は、主にReact ,Next.js(app router)を中心とした個人学習をしながら個人開発を行なっておりました。
 
-■ 2024/07 ~ 2025/05 までのブランクについての詳細
-
-主に、React v19 ,Next.js v15(app router)を中心とした個人学習を行なっておりました。
-
-# 学習と個人開発の経歴
+# 学習と個人開発の活動詳細
 
 ## 2024年7月〜8月：React基礎学習期間
 
-### 学習内容
+### 学習教材
+
 - Udemy講座：【2024年最新】React(v18)完全入門ガイド｜Hooks、Next14、Redux、TypeScript
 - React公式ドキュメント：reactdev日本語版を通読
 
@@ -19,10 +16,9 @@
 - 以下のセクション以外を複数回視聴し、実際にコンポーネントを作成しながら学習
  　- セクション14: 【スキップ可】クラスコンポーネント
  　- 【付録】TypeScript
-- 学習成果物：next-app（GitHub）
 - 学んだこと：
  　- Reactの基本概念（コンポーネント、props、state）
- 　- Hooks（useState, useEffect, useContext, useReducer）
+ 　- Hooks（useState, useEffect, useContext, useReducerなど）
  　- イベント処理、条件付きレンダリング
  　- フォーム処理
  　- Redux
@@ -30,7 +26,7 @@
 
 ## 2024年9月〜10月：Next.js学習と個人開発開始
 
-### 学習内容
+### 学習教材
 - Udemy講座：電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座（進捗71%）
 - Next.js公式ドキュメント：Next.js Documentation（App Router中心に学習）
 - 書籍：実践Next.js App Routerで進化するWebアプリ開発
@@ -96,5 +92,6 @@
 
 ### 現在の取り組み
 - 2025年5月から転職活動を本格的に開始
-- カジ活の開発環境の向上
+- カジ活の開発環境の向上やパフォーマンス改善
+  - tRPCの導入
 - ユーザー（自分や自分の身内）からのフィードバックに基づく機能追加
